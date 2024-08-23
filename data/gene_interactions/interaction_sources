@@ -1,0 +1,26 @@
+# Sources of interaction data
+# (alphabetical by symbol)
+
+
+Symbol:         BIND
+Webpage URL:    http://www.bind.ca
+Template URL:   http://bind.ca/Action?idsearch=
+
+Symbol:         BioGRID
+Webpage URL:    http://thebiogrid.org/
+Template URL:   http://www.thebiogrid.org/SearchResults/summary/
+
+Symbol:         EcoCyc
+Webpage URL:    http://www.ecocyc.org
+Template URL:   http://biocyc.org/ecoli/new-image?object=
+
+HIV-1, human protein interaction data:
+#Provided by: Southern Research Institute (http://www.southernresearch.org/index.html)
+Symbol:         HIV-1 protein interactions
+Webpage URL:    https://www.ncbi.nlm.nih.gov/RefSeq/HIVInteractions/
+Template URL:   https://www.ncbi.nlm.nih.gov/RefSeq/HIVInteractions/
+
+
+Symbol:         HPRD
+Webpage URL:    http://www.hprd.org
+Template URL:   http://www.hprd.org/protein/
