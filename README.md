@@ -6,19 +6,16 @@ Este repositorio contiene la documentación y el código del Trabajo Fin de Más
 ## Objetivos
 - Desarrollar un sistema de información para almacenar datos genómicos de forma estructurada.
 - Diseñar una representación de embedding para secuencias genómicas.
-- Crear y validar un modelo de red neuronal profunda para la predicción de interacciones entre genes.
+- Crear y validar un distintos métodos para la predicción de interacciones entre genes.
 
 ## Fases del Proyecto
 1. Recopilación de datos genómicos desde fuentes públicas.
 2. Implementación de un sistema de información para el manejo de los datos.
 3. Diseño de una estructura de embedding genómico.
-4. Desarrollo y validación de un modelo de aprendizaje profundo.
-
-## Herramientas y Tecnologías
-- Python para el desarrollo del modelo de aprendizaje profundo.
-- Bases de datos para el almacenamiento de datos.
-- Técnicas de procesamiento de lenguaje natural para la anotación automática de datos.
+4. Desarrollo y validación de los modelos creados.
 
 ## Contacto
 - Tutor del Proyecto: Rubén Armañanzas Arnedillo - [rarmananzas@unav.es](mailto:rarmananzas@unav.es)
-- Cotutor del Proyecto: Aitor Oviedo Madrid - [aoviedomadr@unav.es](mailto:aoviedomadr@unav.es)
+- Rodrigo de la Nuez Moraleda - [rdelanuezmo@alumni.unav.es](mailto:rdelanuezmo@alumni.unav.es)
+- Guillermo Cano Martínez - [gcanomartin@alumni.unav.es](gcanomartin@alumni.unav.es)
+- María José Forero Calabuig - [mforerocala@alumni.unav.es](mailto:mforerocala@alumni.unav.es)
