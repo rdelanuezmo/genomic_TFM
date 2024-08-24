@@ -9,7 +9,7 @@ Este repositorio contiene la documentación y el código del Trabajo Fin de Más
 - Crear y validar distintos métodos para la predicción de interacciones entre genes.
 
 ## Contacto
-- **Director del Proyecto:** Rubén Armañanzas Arnedillo - [rarmananzas@unav.es](mailto:rarmananzas@unav.es)
+- **<u>Director del Proyecto</u>:** Rubén Armañanzas Arnedillo - [rarmananzas@unav.es](mailto:rarmananzas@unav.es)
 - Rodrigo de la Nuez Moraleda - [rdelanuezmo@alumni.unav.es](mailto:rdelanuezmo@alumni.unav.es)
 - Guillermo Cano Martínez - [gcanomartin@alumni.unav.es](gcanomartin@alumni.unav.es)
 - María José Forero Calabuig - [mforerocala@alumni.unav.es](mailto:mforerocala@alumni.unav.es)
