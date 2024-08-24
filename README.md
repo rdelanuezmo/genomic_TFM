@@ -1,6 +1,5 @@
 # Diseño de un Sistema Inteligente de Predicción de Interacciones Genómicas In Silico
 
-## Descripción del Proyecto
 Este repositorio contiene la documentación y el código del Trabajo Fin de Máster propuesto desde el Instituto de Ciencia de los Datos e Inteligencia Artificial (DATAI) de la Universidad de Navarra. El proyecto se enfoca en el diseño de un sistema inteligente para predecir interacciones genómicas utilizando técnicas de deep learning.
 
 ## Objetivos
