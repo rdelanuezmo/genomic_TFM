@@ -4,15 +4,9 @@
 Este repositorio contiene la documentación y el código del Trabajo Fin de Máster propuesto desde el Instituto de Ciencia de los Datos e Inteligencia Artificial (DATAI) de la Universidad de Navarra. El proyecto se enfoca en el diseño de un sistema inteligente para predecir interacciones genómicas utilizando técnicas de deep learning.
 
 ## Objetivos
-- Desarrollar un sistema de información para almacenar datos genómicos de forma estructurada.
+- Recopilación de datos genómicos desde fuentes públicas.
 - Diseñar una representación de embedding para secuencias genómicas.
-- Crear y validar un distintos métodos para la predicción de interacciones entre genes.
-
-## Fases del Proyecto
-1. Recopilación de datos genómicos desde fuentes públicas.
-2. Implementación de un sistema de información para el manejo de los datos.
-3. Diseño de una estructura de embedding genómico.
-4. Desarrollo y validación de los modelos creados.
+- Crear y validar distintos métodos para la predicción de interacciones entre genes.
 
 ## Contacto
 - Tutor del Proyecto: Rubén Armañanzas Arnedillo - [rarmananzas@unav.es](mailto:rarmananzas@unav.es)
